@@ -8,5 +8,6 @@ Progress:
 - Variables ✔️
 - Functions ✔️
 - If ✔️
+- Primitive Types ✔️
 </div>
 

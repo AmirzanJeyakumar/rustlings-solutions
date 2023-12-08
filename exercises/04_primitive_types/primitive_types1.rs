@@ -13,8 +13,8 @@ fn main() {
         println!("Good morning!");
     }
 
-    let // Finish the rest of this line like the example! Or make it be false!
-    if is_evening {
+    // Finish the rest of this line like the example! Or make it be false!
+    if !is_morning {
         println!("Good evening!");
     }
 }
