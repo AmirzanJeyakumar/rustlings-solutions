@@ -1,7 +1,7 @@
 <div class="oranda-hide">
 
 # rustlings-solution 🦀❤️
-My solutions to the Rustlings exercises @ https://github.com/rust-lang/rustlings
+My solutions to the [Rustlings exercises](https://github.com/rust-lang/rustlings)
 
 Progress:
 - Intro ✔️
@@ -10,5 +10,6 @@ Progress:
 - If ✔️
 - Primitive Types ✔️
 - Vecs ✔️
+- Move Semantics ✔️
 </div>
 
