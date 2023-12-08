@@ -7,5 +7,6 @@ Progress:
 - Intro ✔️
 - Variables ✔️
 - Functions ✔️
+- If ✔️
 </div>
 
