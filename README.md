@@ -9,5 +9,6 @@ Progress:
 - Functions ✔️
 - If ✔️
 - Primitive Types ✔️
+- Vecs ✔️
 </div>
 
