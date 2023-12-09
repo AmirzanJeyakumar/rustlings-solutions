@@ -11,5 +11,6 @@ Progress:
 - Primitive Types ✔️
 - Vecs ✔️
 - Move Semantics ✔️
+- Structs ✔️
 </div>
 
