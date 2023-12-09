@@ -12,5 +12,6 @@ Progress:
 - Vecs ✔️
 - Move Semantics ✔️
 - Structs ✔️
+- Enums ✔️
 </div>
 
