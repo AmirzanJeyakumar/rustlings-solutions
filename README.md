@@ -15,5 +15,6 @@ Progress:
 - Enums ✔️
 - Strings ✔️
 - Modules ✔️
+- Hashmaps ✔️
 </div>
 
