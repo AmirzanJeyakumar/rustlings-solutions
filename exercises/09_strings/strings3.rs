@@ -7,17 +7,18 @@
 
 fn trim_me(input: &str) -> String {
     // TODO: Remove whitespace from both ends of a string!
-    ???
+    String::from(input.trim())
 }
 
 fn compose_me(input: &str) -> String {
     // TODO: Add " world!" to the string! There's multiple ways to do this!
-    ???
+    String::from(input.to_owned() + " world!")
 }
 
 fn replace_me(input: &str) -> String {
     // TODO: Replace "cars" in the string with "balloons"!
-    ???
+    let mut input = input.replace("cars", "balloons");
+    String::from(input)
 }
 
 #[cfg(test)]
@@ -39,7 +40,13 @@ mod tests {
 
     #[test]
     fn replace_a_string() {
-        assert_eq!(replace_me("I think cars are cool"), "I think balloons are cool");
-        assert_eq!(replace_me("I love to look at cars"), "I love to look at balloons");
+        assert_eq!(
+            replace_me("I think cars are cool"),
+            "I think balloons are cool"
+        );
+        assert_eq!(
+            replace_me("I love to look at cars"),
+            "I love to look at balloons"
+        );
     }
 }

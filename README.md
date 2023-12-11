@@ -13,5 +13,6 @@ Progress:
 - Move Semantics ✔️
 - Structs ✔️
 - Enums ✔️
+- Strings ✔️
 </div>
 
