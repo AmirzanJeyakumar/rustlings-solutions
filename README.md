@@ -16,5 +16,6 @@ Progress:
 - Strings ✔️
 - Modules ✔️
 - Hashmaps ✔️
+- Options ✔️
 </div>
 
