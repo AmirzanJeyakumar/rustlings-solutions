@@ -9,26 +9,26 @@
 
 // I AM NOT DONE
 
+use crate::delicious_snacks::{fruits::PEAR, veggies::CUCUMBER};
+
 mod delicious_snacks {
     // TODO: Fix these use statements
-    use self::fruits::PEAR as ???
-    use self::veggies::CUCUMBER as ???
+    use self::fruits::PEAR;
+    use self::veggies::CUCUMBER;
 
-    mod fruits {
+    pub mod fruits {
         pub const PEAR: &'static str = "Pear";
         pub const APPLE: &'static str = "Apple";
     }
 
-    mod veggies {
+    pub mod veggies {
         pub const CUCUMBER: &'static str = "Cucumber";
         pub const CARROT: &'static str = "Carrot";
     }
 }
 
 fn main() {
-    println!(
-        "favorite snacks: {} and {}",
-        delicious_snacks::fruit,
-        delicious_snacks::veggie
-    );
+    let pear = PEAR;
+    let cucumber = CUCUMBER;
+    println!("favorite snacks: {} and {}", pear, cucumber);
 }

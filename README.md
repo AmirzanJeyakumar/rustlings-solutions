@@ -14,5 +14,6 @@ Progress:
 - Structs ✔️
 - Enums ✔️
 - Strings ✔️
+- Modules ✔️
 </div>
 
