@@ -18,5 +18,6 @@ Progress:
 - Hashmaps ✔️
 - Options ✔️
 - Errors ✔️
+- Generics ✔️
 </div>
 
