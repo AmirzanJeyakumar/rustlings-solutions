@@ -17,5 +17,6 @@ Progress:
 - Modules ✔️
 - Hashmaps ✔️
 - Options ✔️
+- Errors ✔️
 </div>
 
