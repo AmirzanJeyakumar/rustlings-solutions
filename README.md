@@ -19,5 +19,6 @@ Progress:
 - Options ✔️
 - Errors ✔️
 - Generics ✔️
+- Traits ✔️
 </div>
 
