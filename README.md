@@ -20,5 +20,6 @@ Progress:
 - Errors ✔️
 - Generics ✔️
 - Traits ✔️
+- Lifetimes ✔️
 </div>
 
